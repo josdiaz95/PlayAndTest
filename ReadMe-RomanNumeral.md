@@ -1,6 +1,6 @@
 Roman Numeral Converter
 ======================
-Convert and number into a roman numeral!
+Convert any number into a roman numeral!
 
 # TDD Test Lists
 I = "1"
